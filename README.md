@@ -25,8 +25,8 @@ Our reports assist in:
 ## Finance Report Repository
 
 ### 📊 Project Objectives
-1. 📈 Create detailed Profit and Loss (P&L) reports by [Fiscal Year](P & L_Fiscalyears.pdf).
-2. 📊 Generate Profit and Loss (P&L) reports by [Markets](P & L statements for Market.pdf).
+1. 📈 Create detailed Profit and Loss (P&L) reports by [Fiscal Year](P&LFiscalyears.pdf).
+2. 📊 Generate Profit and Loss (P&L) reports by [Markets](Market_Performance_report.pdf).
 
 ### 💰 Purpose and Significance
 Evaluate financial performance, support confident decision-making, and streamline communication with stakeholders.
