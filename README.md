@@ -23,7 +23,7 @@ Identify sales patterns and track key performance indicators (KPIs).
 
 ### Project Objectives:
 1. Create Profit and Loss (P&L) reports by [Fiscal Year](P&LFiscalyears.pdf).
-2. Create Profit and Loss (P&L) reports by [Markets](P&LFiscalyears.pdf).
+2. Create Profit and Loss (P&L) reports by [Markets](P&LstatementsforMarket.pdf).
 
 ### Purpose of Finance Analytics:
 Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
